@@ -38,7 +38,7 @@ namespace OrderSum
             Log("");
             Log("Logged on! - " + DateTime.Now.ToString() + " - " + username);
         }
-
+            
         private void ButtonClick(BIG.Button button, ref bool SkipRecording)
         {
             try
